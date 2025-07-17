@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "STM32F769NIH6"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-11-12-09:02:52)
+    (mountForm default
+        (footprintRef "BGA216C80P15X15_1300X1300X110")
+        (spec "System")
+    )
+)

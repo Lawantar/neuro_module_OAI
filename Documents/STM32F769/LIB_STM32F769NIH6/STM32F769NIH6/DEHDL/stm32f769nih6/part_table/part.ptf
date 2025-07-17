@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'STM32F769NIH6'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "STM32F769NIH6" (!) = "", "BGA216C80P15X15_1300X1300X110", "BGA", "511-STM32F769NIH6", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32F769NIH6?qs=dTJS0cRn7ogA2J674TGvTQ%3D%3D", "STM32F769NIH6", "https://www.arrow.com/en/products/stm32f769nih6/stmicroelectronics?region=nac", "ARM Microcontrollers - MCU 16/32-BITS MICROS", "https://www.mouser.de/datasheet/2/389/stm32f765bg-1851465.pdf", "1.1 mm"
+END_PART
+
+END.
