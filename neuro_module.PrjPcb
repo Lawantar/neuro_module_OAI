@@ -339,6 +339,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PSCBPUPX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for neuro_module\Design Rule Check - neuro_module.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=GlobalOrganizationName
 Value=НГУ
